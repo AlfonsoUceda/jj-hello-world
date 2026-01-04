@@ -13,5 +13,3 @@ fn main() {
 fn print(m: &str) {
     println!("{m}")
 }
-
-/// foo bar
