@@ -3,6 +3,7 @@
 /// This is the best implementation of this program to ever exist.
 
 /// The main function runs when our program starts
+/// prints hello and goodbye world messages
 fn main() {
     print("Hello, world!");
     print("Goodbye, world!");
